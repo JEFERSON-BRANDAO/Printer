@@ -1,0 +1,19 @@
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.19.215.26)(PORT=1527))(CONNECT_DATA=(SERVICE_NAME=EGODB.FIH.GD)(CID=(PROGRAM=C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Printer\Printer\bin\Debug\Printer.vshost.exe)(HOST=BR1CN00112)(USER=jefferson.brandao))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 06-APR-2018 09:34:58
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0

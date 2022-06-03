@@ -1,0 +1,8 @@
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\Printer\Printer\bin\Debug\Printer.exe
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\Printer\Printer\bin\Debug\Printer.pdb
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\Printer\Printer\obj\x86\Debug\Printer.Auditar.resources
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\Printer\Printer\obj\x86\Debug\Printer.Properties.Resources.resources
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\Printer\Printer\obj\x86\Debug\Printer.csproj.GenerateResource.Cache
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\Printer\Printer\obj\x86\Debug\Printer.exe
+c:\users\jefferson.brandao\documents\visual studio 2010\Projects\Printer\Printer\obj\x86\Debug\Printer.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\Printer\Printer\obj\x86\Debug\Printer.csprojResolveAssemblyReference.cache
